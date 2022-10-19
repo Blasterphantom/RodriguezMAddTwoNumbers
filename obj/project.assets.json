@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/marcelrodriguez/.nuget/packages/": {}
+    "/Users/drewnilsson/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/RodriguezMAddTwoNumbers.csproj",
+      "projectUniqueName": "/Users/drewnilsson/Downloads/RodriguezMAddTwoNumbers/RodriguezMAddTwoNumbers.csproj",
       "projectName": "RodriguezMAddTwoNumbers",
-      "projectPath": "/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/RodriguezMAddTwoNumbers.csproj",
-      "packagesPath": "/Users/marcelrodriguez/.nuget/packages/",
-      "outputPath": "/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/obj/",
+      "projectPath": "/Users/drewnilsson/Downloads/RodriguezMAddTwoNumbers/RodriguezMAddTwoNumbers.csproj",
+      "packagesPath": "/Users/drewnilsson/.nuget/packages/",
+      "outputPath": "/Users/drewnilsson/Downloads/RodriguezMAddTwoNumbers/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/marcelrodriguez/.nuget/NuGet/NuGet.Config"
+        "/Users/drewnilsson/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }
