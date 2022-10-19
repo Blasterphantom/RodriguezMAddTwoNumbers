@@ -1,0 +1,15 @@
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/bin/Debug/net6.0/RodriguezMAddTwoNumbers
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/bin/Debug/net6.0/RodriguezMAddTwoNumbers.deps.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/bin/Debug/net6.0/RodriguezMAddTwoNumbers.runtimeconfig.json
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/bin/Debug/net6.0/RodriguezMAddTwoNumbers.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/bin/Debug/net6.0/RodriguezMAddTwoNumbers.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/obj/Debug/net6.0/RodriguezMAddTwoNumbers.csproj.AssemblyReference.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/obj/Debug/net6.0/RodriguezMAddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/obj/Debug/net6.0/RodriguezMAddTwoNumbers.AssemblyInfoInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/obj/Debug/net6.0/RodriguezMAddTwoNumbers.AssemblyInfo.cs
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/obj/Debug/net6.0/RodriguezMAddTwoNumbers.csproj.CoreCompileInputs.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/obj/Debug/net6.0/RodriguezMAddTwoNumbers.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/obj/Debug/net6.0/refint/RodriguezMAddTwoNumbers.dll
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/obj/Debug/net6.0/RodriguezMAddTwoNumbers.pdb
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/obj/Debug/net6.0/RodriguezMAddTwoNumbers.genruntimeconfig.cache
+/Users/marcelrodriguez/Codestack22-23/Level1/MRodriguezGithubChallenges/RodriguezMAddTwoNumbers/obj/Debug/net6.0/ref/RodriguezMAddTwoNumbers.dll
